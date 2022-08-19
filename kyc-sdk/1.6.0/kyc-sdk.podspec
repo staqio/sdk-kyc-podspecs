@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'kyc-sdk'
-    s.version          = '1.5.0'
+    s.version          = '1.6.0'
     s.summary          = 'pod for onboarding'
   
     s.description      = <<-DESC
