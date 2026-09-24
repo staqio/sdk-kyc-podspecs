@@ -1,1 +1,4 @@
 * @RamiBAE
+
+# CI/CD workflow definitions require devops-team review.
+/.github/workflows/ @staqio/devops-team
